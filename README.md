@@ -10,7 +10,7 @@ I have been in crypto since 21 years. I am a crypto-enthusiast who loves new blo
 * ✉️  You can contact me at [companycirica@gmail.com](mailto:companycirica@gmail.com)
 * 🧠  I'm learning Web3 PY
 
-<a href="https://www.x.com/companycirica" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/companycirica" target="_blank" rel="823"><img
 src="https://img.shields.io/twitter/follow/companycirica?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
