@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web3 develompent | Ambassador
 -----------------------------
 
-I have been in crypto since 21 years. I am a crypto-enthusiast who loves new blockchains and new technologies that appear in the world of Web3. The main direction of my activity is directed on ambassadors programs, retrodrop and programming mainly in python and also Zennoposter programs.
+I have been in crypto since 21 years. I am a crypto-enthusiast who loves new blockchains and new technologies that appear in the world of Web3. The main direction of my activity is directed on ambassadors programs, retrodrop and programming mainly in python and also Zennoposter program.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [companycirica@gmail.com](mailto:companycirica@gmail.com)
